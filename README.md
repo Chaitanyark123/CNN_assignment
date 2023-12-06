@@ -19,6 +19,8 @@ Technologies used: Python incorporated with Pandas, tensorflow, matplotlib modul
 Files contained:
 CNN_assignment: 
 The jupiter notebook file in which the code is present.
-The Train and Test images.
+The Train and Test images. 
+
+Note:The test and train images are to be downloaded and should be in the same folder as the jupiter notebook.
 
 Project Contributors: Krishna chaitanya (chaitanyark123@gmail.com)
